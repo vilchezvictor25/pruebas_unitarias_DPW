@@ -1,0 +1,12 @@
+{
+    "name": "victor25/semana_12",
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "77570854@sam.edu.pe"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^13.2"
+    }
+}
