@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"CalculadorRecargoTest::testDiasNegativosLanzaExcepcion":0.001,"CalculadorRecargoTest::testSinRecargo":0.002,"CalculadorRecargoTest::testRecargoLeve":0.002,"CalculadorRecargoTest::testRecargoGrave":0.001}}
